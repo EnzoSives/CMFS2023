@@ -1,0 +1,11 @@
+{
+  "status": "OK",
+  "audios": [
+    {
+      "identificador": 1,
+      "titulo": "Bohemian Rapshody",
+      "duracion": 420,
+      "interprete": "Queen"
+    }
+  ]
+}
