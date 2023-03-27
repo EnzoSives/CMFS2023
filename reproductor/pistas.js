@@ -190,11 +190,4 @@ async function aServidor(datos, accion) {
   return (await respuesta.text()) == 'ok';
 }
 
-/*async function load() {
-      pistas = [];
-      let respuesta = await fetch("/pistas");
-      if (respuesta.ok) {
-      pistas = await respuesta.json();
-      }
-      mostrarPistas()
-      }*/
+
